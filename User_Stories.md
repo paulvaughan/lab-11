@@ -5,3 +5,7 @@
 - Marketing team interviewed select focus group
 - Three demographics represented in interview
 - Preferences lead to the creation of four focus group images
+
+## Edits by Emmanuel
+
+This should work and we will see shortly
