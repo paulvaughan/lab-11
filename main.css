@@ -1,7 +1,8 @@
 h1 {
-  font-family: 'Sacramento', cursive;
+  font-family: 'Nanum Pen Script', cursive;
   font-size: 80px;
-  text-align: center
+  text-align: center;
+  color: rgb(127, 73, 177)
 }
 
 .vid {
